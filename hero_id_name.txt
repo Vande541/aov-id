@@ -1,0 +1,121 @@
+106: Krixi - XiaoQiao
+105: Toro - LianPo
+107: Zephys - ZhaoYun
+108: Gildur - MoDi
+110: Kahli - YingZheng
+109: Veera - DaJi
+111: Violet - SunShangXiang
+112: Yorn - GongShuBan
+113: Chaugnar - ZhuangZhou
+114: Omega 
+115: Jinna - GaoJianLi
+116: Butterfly - JingKe
+118: Alice - SunBin
+119: Mganga - BianQue
+117: Ormarr - ZhongWuYan
+121: Marjia - MiYue
+123: Maloch - LvBu
+120: Mina - BaiQi
+126: Arduin - XiaHouDun
+124: Ignis - ZhouYu
+127: Azzen'Ka - ZhenJi
+129: Triệu Vân - DianWei
+128: Lữ Bố - CaoCao
+130: Airi - GongBenWuZang
+131: Murad - LiBai
+133: Valhein - DiRenJie
+132: Hayate - MaKeBoLuo
+134: Skud - TangSanZang	
+135: Thane - XiangYu	
+136: illumia - WuZeTian
+137: Paine - SiMaYi
+139: Kil'Groth - KongFuZi
+140: Superman - GuanYu
+142: Natalya - CaiWenJi
+144: Taara - ChengYaoJin
+141: Lauriel - Diaochan
+148: Preyta - JiangZiYa
+149: Xeniel - LiuBang
+146: Zill - HongFu
+150: Nakroth - HanXin	
+153: Batman - LanLingWang	
+152: Điêu Thuyền - WangZhaoJun
+154: Yena - HuaMuLan
+157: Raz - BuZhiHuoWu
+156: Aleister - ZhangLiang
+162: Kriknak - Nakoruru
+163: Ryoma - JuYouJing
+166: Arthur - YaSeWang
+168: Lumburr - Niu	
+167: Ngộ Không - WuKong
+169: Slimz - HouYi
+170: Moren - LiuBei
+173: Fennik - LiYuanFang	
+171: Cresh - ZhangFei
+177: Lindis - ChengJiSiHan	
+175: Grakk - ZhongKui	
+174: Joker - YuJi	
+184: Payna - CaiWenJi
+180: Max - NeZha	
+186: Teemee - TaiYiZhenRen
+187: Arum - DongHuangTaiYi
+189: Krizzix -- GuiGuZi	
+190: Tulen - ZhuGeLiang
+192: Celica - HuangZhong
+191: Rouie - DaQiao	
+193: Amily - LaFeiEr	
+194: Wiro - SuLie
+196: Elsu - Elsu
+195: Enzo - BaiLiXuanCe	
+199: Eland'orr - Li	
+206_XiaLuoTe
+501: Tel'Annas - TelAnnas	
+503: Zuka - Zuka
+504: Wonder Woman - WonderWoman
+502: Astrid - Astrid
+505: Baldum - Baldum	
+507: The Flash - Flash	
+506: Omen - DarkKnight
+508: Wisp - Zhadanren	
+510: Liliana - Liliana	
+509: Y'Bneth - Ybneth	
+512: Rourke - Rourke	
+513: Zata - ShuSheng	
+511: Ata - ZhuBaJie	
+514: Roxie - Roxi	
+515: Richter - Richter	
+518: Quillen - Quillen	
+520: Veres - Veres	
+519: Annette - Annette	
+521: Florentino - Florentino	
+523: D'Arcy - Darcy	
+524: Capheny - Capheny	
+522: Errol - Errol
+526: Ishar - Summoner	
+527: Sephera - Sephera	
+525: Zip - Driver
+528: Qi - DaMo	
+530: Dirak - Dirak	
+529: Volkath - Volkath	
+531: Keera - Keera	
+532: Thorne - Genius	
+533: Laville - HouYi	
+534: Dextra - Grantwish	
+536: Aoi - Ninja
+535: Sinestrea - Wish	
+537: Allain - Trip	
+538: Iggy - Iggy
+539: Lorion - Nott	
+540: Bright - Bright	
+567_AiLin - Erin
+546_Hecate - Terri
+808_MortosDummy
+541_Bonnie
+542: Tachi
+543_Yao - Sóc vàng
+544_Painter - Yan
+545_Aim - Yue
+548_SunCe - Bijan
+809_TelDummy
+568_MingShiYin - Ming
+999_ChessPlayer
